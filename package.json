@@ -1,0 +1,24 @@
+{
+  "name": "kr.co.humanit.node.test",
+  "version": "1.0.0",
+  "description": "my node test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mytest"
+  ],
+  "author": "raphael",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "save": "^2.9.0",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23"
+  }
+}
